@@ -1,4 +1,4 @@
-![](https://r74.cooltext.com/rendered/cooltext391591404532596.png)
+![](https://drive.google.com/file/d/1Bm2aGscDwHKFplJB8XLKCpCZaUmyZU4M/view?usp=sharing)
 
 ### Hola desarrolladores👋
 
