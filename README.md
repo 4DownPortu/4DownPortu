@@ -10,11 +10,14 @@
 
 Ejemplo Tablas en MD
 
-| Horario 	|Lunes |    Y  	|
-|----------	|:----:|:---:	|
-|         	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
+| Horario 	|Lunes                        |
+|----------	|:---------------------------:||:---------------------------:||:---------------------------:||:---------------------------:||:---------------------------:|
+|2:00-3:00  |lenguaje de interfaz         ||lenguaje de interfaz         ||lenguaje de interfaz         ||lenguaje de interfaz         ||lenguaje de interfaz         |
+|3:00-4:00  |Analisis avanzado de software||Analisis avanzado de software||Analisis avanzado de software||Analisis avanzado de software||Analisis avanzado de software|
+|4:00-5:00  |Taller de investigacion II   ||Taller de investigacion II   ||Taller de investigacion II   ||Taller de investigacion II   ||Taller de investigacion II   | 
+|5:00-6:00  | 20 	|  30 	|
+|6:00-7:00  | 11 	|  27 	|
+|7:00-8:00  | 22 	| 333 	|
 
 
 <!--
