@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola desarrolladores👋
+
+
+- 🔭 En bachillerato con informática.
+- 🖥 Estudiante de los ultimos semestre de ISC.
+- ⚡ Galgo.
+- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 
 <!--
 **4DownPortu/4DownPortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
