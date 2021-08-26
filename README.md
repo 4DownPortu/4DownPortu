@@ -1,4 +1,4 @@
-![](https://ibb.co/Nr3whJp)
+![](https://i.ibb.co/ScxqTM0/cooltext391591404532596.png)
 
 ### Hola desarrolladores👋
 
