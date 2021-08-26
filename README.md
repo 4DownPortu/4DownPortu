@@ -2,7 +2,7 @@
 
 ### Hola desarrolladores👋
 
-
+- 👨‍🏫 Soy docente a nivel secundaria de innovacion tecnologica.
 - 🔭 En bachillerato con informática.
 - 🖥 Estudiante de los ultimos semestre de ISC.
 - ⚡ Galgo.
