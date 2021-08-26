@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1Bm2aGscDwHKFplJB8XLKCpCZaUmyZU4M/view?usp=sharing)
+![](https://ibb.co/Nr3whJp)
 
 ### Hola desarrolladores👋
 
