@@ -8,7 +8,7 @@
 - ⚡ Galgo.
 - 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 
-##Horario Universitario
+## Horario Universitario
 
 | Horario 	|Lunes                        |Martes                       |Miercoles                    |Jueves                       |Viernes                      |
 |----------	|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
