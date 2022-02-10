@@ -12,10 +12,10 @@
 
 | Horario 	|Lunes                        |Martes                       |Miercoles                    |Jueves                       |Viernes                      |
 |----------	|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-|2:00-3:00  |lenguaje de interfaz         |lenguaje de interfaz         |lenguaje de interfaz         |lenguaje de interfaz         |lenguaje de interfaz         |
-|3:00-4:00  |Analisis avanzado de software|Analisis avanzado de software|Analisis avanzado de software|Analisis avanzado de software|Analisis avanzado de software|
-|4:00-5:00  |Taller de investigacion II   |Taller de investigacion II   |Taller de investigacion II   |Taller de investigacion II   |Taller de investigacion II   | 
-|5:00-6:00  |Conmutacion y enrutamiento 	|Conmutacion y enrutamiento 	|Conmutacion y enrutamiento 	|Conmutacion y enrutamiento 	|Conmutacion y enrutamiento 	|
+|2:00-3:00  |Admon base de datos          |Admon base de datos          |Admon base de datos          |Admon base de datos          |Admon base de datos          |
+|3:00-4:00  |Inteligencia Artificial      |Inteligencia Artificial      |Inteligencia Artificial      |Inteligencia Artificial      |Inteligencia Artificial      |
+|4:00-5:00  |Innovacion Tecnologica       |Innovacion Tecnologica       |Innovacion Tecnologica       |Innovacion Tecnologica       |Innovacion Tecnologica       | 
+|5:00-6:00  |Sistemas Progamables         |Sistemas Progamables         |Sistemas Progamables         |Sistemas Progamables         |Sistemas Progamables         |
 |6:00-7:00  |Administracion de redes    	|Administracion de redes    	|Administracion de redes    	|Administracion de redes    	|Administracion de redes    	|
 |7:00-8:00  |Patrones de diseño          	|Patrones de diseño          	|Patrones de diseño          	|Patrones de diseño          	|Patrones de diseño          	|
 
